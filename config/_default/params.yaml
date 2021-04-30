@@ -15,7 +15,7 @@ font_size: L
 site_type: LocalBusiness
 local_business_type: 'ProfessionalService'
 org_name: 'Fotograaf Viktoria Iljin'
-description: 'Beebifotograaf Tallinnas - Viktoria Iljin'
+description: 'Väikelastefotograaf Tallinnas - Viktoria Iljin'
 twitter: 'lastefoto'
 
 # Contact (edit or remove options as required)
@@ -89,7 +89,7 @@ show_related:
   project: false
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true
@@ -139,9 +139,9 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: 'G-9KC50E40SC'
+  google_analytics: 'G-L4E9SL2V5R'
   google_tag_manager: ''
-  google_site_verification: 'g0LzPQMhOcxDI2oXxHSnozjyxEsG2gADWRnuz5oU7_A'
+  google_site_verification: '_FYnatsSa3IP6sKgBs2D6IqaCQgIvmWYlavIdX4ELtA'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:

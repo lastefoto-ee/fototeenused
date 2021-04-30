@@ -11,16 +11,16 @@ header:
   caption: ""
   image: ""
 ---
-These Privacy Terms apply when using the web environment https://www.fototeenused.ee. Your use of the web environment is considered your acceptance of these Privacy Policy.
+These Privacy Terms apply when using the web environment https://www.väikelaps.ee. Your use of the web environment is considered your acceptance of these Privacy Policy.
 
 1. The Privacy Policy sets out the rules for the collection, storage and processing of personal data when using the services of Boonus Meedia OÜ (hereinafter the Company).
 
 Photos taken by the photographer of Lastefoto.ee (hereinafter the Photographer) can be seen and received only by the Photographer's clients. The photos taken by the photographer are sent to the photographer's archive and to the customer.
-If the Photographer wishes to use the client's images on the website https://www.fototeenused.ee or on the Photographer's pages in social networks, then only if he has received written permission from the client by e-mail or when filling out a questionnaire.
+If the Photographer wishes to use the client's images on the website https://www.väikelaps.ee or on the Photographer's pages in social networks, then only if he has received written permission from the client by e-mail or when filling out a questionnaire.
 
 2. This privacy policy is designed to ensure the safety and security of the user's personal data in order to protect it from unauthorized use.
 
-3. The processor of the user's personal data is the Company. The user's personal data is processed in accordance with the current regulation on the protection of personal data of the Republic of Estonia.
+3. The company is the main processor of personal data and transfers the personal data necessary for making payments to the authorized processor Maksekeskus AS. The user's personal data is processed in accordance with the current regulation on the protection of personal data of the Republic of Estonia.
 
 4. The company collects personal data of the user when registering the user on the website, as well as in other processes of using the website by the user.
 
