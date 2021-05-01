@@ -6,7 +6,7 @@ title: Viktoria Iljin
 superuser: true
 
 # Role/position/tagline
-role: Väikelastefotograaf
+role: Lastefotograaf
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.lastefoto.ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Väikelaste fotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
+bio: Laste fotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
 
 # Interests to show in About widget
 interests:
@@ -64,7 +64,7 @@ email: "viktoria.iljin@gmail.com"
 highlight_name: false
 ---
 
-Tere! Olen Viktoria - väikelastefotograaf Tallinnas, Eestis. 
+Tere! Olen Viktoria - lastefotograaf Tallinnas, Eestis. 
 
 Koos saaksime luua teie pere ilusa ja ainulaadse ajaloo. 
 
