@@ -1,6 +1,6 @@
 ---
 title: Baby session
-summary: babyggirl
+summary: babygirl
 tags:
 - baby
 date: "2020-08-01T00:00:00Z"

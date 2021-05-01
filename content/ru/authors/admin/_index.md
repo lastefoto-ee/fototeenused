@@ -6,7 +6,7 @@ title: Виктория Ильин
 superuser: true
 
 # Role/position/tagline
-role: Фотограф новорожденных
+role: Детский фотограф
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.lastefoto.ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Фотограф новорожденных в Таллине создаст красивую и неповторимую историю вашей семьи
+bio: Детский фотограф в Таллине создаст красивую и неповторимую историю вашей семьи
 
 # Interests to show in About widget
 interests:
@@ -64,7 +64,7 @@ email: "viktoria.iljin@gmail.com"
 highlight_name: false
 ---
 
-Здравствуйте! Я Виктория, фотограф малышей в Таллинне.
+Здравствуйте! Я Виктория, детский фотограф в Таллинне.
 
 Вместе мы могли бы создать уникальную историю вашей семьи.
 

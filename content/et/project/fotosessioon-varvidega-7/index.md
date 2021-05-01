@@ -1,6 +1,6 @@
 ---
 title: Väikelapse värvidega sessioon
-summary: kbeebitüdruk
+summary: beebitüdruk
 tags:
 - värvid
 date: "2020-07-30T00:00:00Z"

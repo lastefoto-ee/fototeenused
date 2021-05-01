@@ -1,6 +1,6 @@
 ---
 title: Lapse värvidega fotosessioon
-summary: beebitüdruk, 19 päeva uus
+summary: beebitüdruk
 tags:
 - värvid
 date: "2020-05-16T00:00:00Z"
