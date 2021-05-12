@@ -4,7 +4,7 @@
 title: "Baby photosession with edible colors"
 subtitle: "Features of shooting with edible colors"
 summary: "Features of shooting with edible colors"
-authors: ["Viktoria Iljin"]
+authors: ["admin"]
 tags: ["session with colors"]
 categories: ["colors"]
 date: 202-08-06T17:45:53+02:00
