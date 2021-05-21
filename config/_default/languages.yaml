@@ -6,9 +6,9 @@
 et:
   languageCode: et
   contentDir: content/et
-  title: Lastefotograaf
+  title: Fototenused
   params:
-    description: Lastefotograaf Tallinnas - Viktoria Iljin
+    description: Laste fototeenused Tallinnas
   menu:
     main:
       - name: Minust
