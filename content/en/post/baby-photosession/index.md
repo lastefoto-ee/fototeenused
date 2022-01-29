@@ -33,7 +33,7 @@ authors:
   - admin
 
 tags:
-  - baby photosession
+  - baby photo shoot
 
 categories:
   - babies
@@ -50,7 +50,7 @@ Just dive into those eyes! 😍
 With grown-up babies in a photoshoot the exact same rule applies as in shooting with newborns -
 ## calm mom = calm baby
 
-![Baby photosession](./baby-photosession-2.jpg)
+![Baby photo shoot](./baby-photosession-2.jpg)
 
 Go to the shooting with a smile and a calm heart (yes, no need to panic), tell your kid where and why you are going, let him see your confidence and good mood!
 
