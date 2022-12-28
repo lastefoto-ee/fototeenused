@@ -7,7 +7,7 @@ summary: Väikelapse pildistamine Tallinnas
 
 # Link this post with a project
 projects: 
-  - beebid
+  - väikelaps
 
 # Date published
 date: "2021-10-20T10:53:53+03:00"
@@ -39,10 +39,10 @@ tags:
   - väikelapse pildistamine
 
 categories:
-  - beebid
+  - väikelaps
 
 ---
-{{< cta cta_text="Telli lapsefotosessioon" cta_link="/#contact" cta_new_tab="true" cta_alt_text="või vaata kuidas toimub fotosessioon söödavate värvidega" cta_alt_link="https://www.lastefoto.ee/post/beebifotosessioon-soodavate-varvidega-tallinnas//" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Telli lapsefotosessioon" cta_link="/#contact" cta_new_tab="true" cta_alt_text="või vaata kuidas toimub fotosessioon söödavate värvidega" cta_alt_link="https://www.lastefoto.ee/post/beebivaikelapse-fotosessioon-soodavate-varvidega-tallinnas//" cta_alt_new_tab="false" >}}
 
 Suuremad beebid on minu stuudio sagedased külalised. 🥰
 
