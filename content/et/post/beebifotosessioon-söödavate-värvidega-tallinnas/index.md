@@ -30,15 +30,15 @@ projects: [väikelaps]
 Kas teie beebi loob seintele veetlevaid plekke peedipüree abiga ega ole joonistamise suhtes ükskõikne?
 Siis fotosessioon **Noor abstraktsionist** lõuendi ja söödavate värvidega - on just see, mis on vaja teie väikese geeniuse potentsiaali näitamiseks.
 
-* Eredad, mahlased pildid
-* Kiire fotosessioon (lõpeb enne loomingulise kriisi algust)
-* Lõuend teie beebi meistriteosega - kingituseks
+- Eredad, mahlased pildid
+- Kiire fotosessioon (lõpeb enne loomingulise kriisi algust)
+- Lõuend teie beebi meistriteosega - kingituseks
 
 Kuigi seda tüüpi fotosessioon on Tallinnas absoluutne uudsus, on mul juba õnnestunud piisavalt pildistada, et teha huvitavaid järeldusi.
 
 ![Väikelapse värvidega sessioon](./lapse-varvidega-fotosessioon-1.jpg)
 
-# Nagu “Cake smash!” fotosessioonil, ei tee kõik lapsed kohe «räpaseid» asju. Ja see on okei.
+## Nagu “Cake smash!” fotosessioonil, ei tee kõik lapsed kohe «räpaseid» asju. Ja see on okei.
 
 ![väikelapse värvidega pildistamine](./lapse-varvidega-fotosessioon-2.jpg)
 
@@ -50,7 +50,7 @@ Võtan seda aega alati varuga ja võtan arvesse ka lisapause joomiseks-söömise
 
 ![Lapse värvidega sessioon](./lapse-varvidega-fotosessioon-4.jpg)
 
-# Üllatavalt, aga mitte kõik lapsed armastavad määrduda. Just eile oli mul fotosessioon väikse printsessiga, kes ei tahtnud oma magusaid sõrmi määrida.
+## Üllatavalt, aga mitte kõik lapsed armastavad määrduda. Just eile oli mul fotosessioon väikse printsessiga, kes ei tahtnud oma magusaid sõrmi määrida.
 
 ![Lapse värvidega pildistamine](./lapse-varvidega-fotosessioon-5.jpg)
 
