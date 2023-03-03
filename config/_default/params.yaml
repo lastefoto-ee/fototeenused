@@ -14,8 +14,8 @@ font_size: L
 
 site_type: LocalBusiness
 local_business_type: 'ProfessionalService'
-org_name: 'Fotograaf Viktoria Iljin'
-description: 'Lastefotograaf Tallinnas - Viktoria Iljin'
+org_name: 'Fototeenused'
+description: 'Fototeenused Tallinnas'
 twitter: 'lastefoto'
 
 # Contact (edit or remove options as required)
@@ -139,7 +139,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: 'G-L4E9SL2V5R'
+  google_analytics: 'G-9KC50E40SC'
   google_tag_manager: ''
   google_site_verification: '_FYnatsSa3IP6sKgBs2D6IqaCQgIvmWYlavIdX4ELtA'
   baidu_site_verification: ''

@@ -26,9 +26,9 @@ et:
 ru:
   languageCode: ru
   contentDir: content/ru
-  title: Детский фотограф
+  title: Фотоуслуги
   params:
-    description: Детский фотограф в Таллинне - Виктория Ильин
+    description: Фотоуслуги в Таллинне - Виктория Ильин
   menu:  
     main:
       - name: Обо мне
@@ -46,9 +46,9 @@ ru:
 en:
   languageCode: en
   contentDir: content/en
-  title: Child photographer
+  title: Photo services
   params:
-    description: Child photographer in Tallinn - Viktoria Iljin
+    description: Photo services in Tallinn - Viktoria Iljin
   menu:
     main:
       - name: About me
